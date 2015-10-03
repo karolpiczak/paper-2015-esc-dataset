@@ -1,0 +1,115 @@
+\begin{thebibliography}{10}
+
+\bibitem{bbcsoundeffects}
+{BBC} sound effects library.
+\newblock
+  \textls[-30]{\urlstyle{same}\url{http://www.sound-ideas.com/sound-effects/bbc-sound-effects.html}}.
+\newblock \textls[-30]{(\textit{Aug. 5, 2015})}.
+
+\bibitem{alexandre2007feature}
+E.~Alexandre et~al.
+\newblock Feature selection for sound classification in hearing aids through
+  restricted search driven by genetic algorithms.
+\newblock {\em IEEE Transactions on Audio, Speech, and Language Processing},
+  15(8):2249--2256, 2007.
+
+\bibitem{ballan2009deep}
+L.~Ballan et~al.
+\newblock Deep networks for audio event classification in soccer videos.
+\newblock In {\em Proceedings of the IEEE International Conference on
+  Multimedia and Expo}, pages 474--477, 2009.
+
+\bibitem{barchiesi2015acoustic}
+D.~Barchiesi et~al.
+\newblock Acoustic scene classification: Classifying environments from the
+  sounds they produce.
+\newblock {\em Signal Processing Magazine}, 32(3):16--34, 2015.
+
+\bibitem{chachada2014environmental}
+S.~Chachada and C.-C.~J. Kuo.
+\newblock Environmental sound recognition: A survey.
+\newblock {\em APSIPA Transactions on Signal and Information Processing},
+  3:e14, 2014.
+
+\bibitem{font2013freesound}
+F.~Font, G.~Roma, and X.~Serra.
+\newblock Freesound technical demo.
+\newblock In {\em Proceedings of the ACM International Conference on
+  Multimedia}, pages 411--412. ACM, 2013.
+
+\bibitem{giannoulis2013aasp}
+D.~Giannoulis et~al.
+\newblock Detection and classification of acoustic scenes and events: {An IEEE
+  AASP} challenge.
+\newblock In {\em Proceedings of the IEEE Workshop on Applications of Signal
+  Processing to Audio and Acoustics (WASPAA)}. IEEE, 2013.
+
+\bibitem{lallemand2012content}
+I.~Lallemand, D.~Schwarz, and T.~Artieres.
+\newblock Content-based retrieval of environmental sounds by multiresolution
+  analysis.
+\newblock In {\em Proceedings of the Sound and Music Computing conference},
+  2012.
+
+\bibitem{lopatka2010dangerous}
+K.~{\L}opatka, P.~Zwan, and A.~Czy{\.z}ewski.
+\newblock Dangerous sound event recognition using support vector machine
+  classifiers.
+\newblock In {\em Advances in Multimedia and Network Information System
+  Technologies}, pages 49--57. Springer, 2010.
+
+\bibitem{maxime2014sound}
+J.~Maxime et~al.
+\newblock Sound representation and classification benchmark for domestic
+  robots.
+\newblock In {\em Proceedings of the IEEE International Conference on Robotics
+  and Automation (ICRA)}, pages 6285--6292. IEEE, 2014.
+
+\bibitem{nishiura2002evaluation}
+T.~Nishiura and S.~Nakamura.
+\newblock An evaluation of sound source identification with {RWCP} sound scene
+  database in real acoustic environments.
+\newblock In {\em Proceedings of the IEEE International Conference on
+  Multimedia and Expo}, volume~2, pages 265--268. IEEE, 2002.
+
+\bibitem{piczak2015esc-convnet}
+K.~J. Piczak.
+\newblock Environmental sound classification with convolutional neural
+  networks.
+\newblock In {\em Proceedings of the IEEE International Workshop on Machine
+  Learning for Signal Processing (MLSP)}. IEEE, 2015.
+\newblock \textit{In press}.
+
+\bibitem{plinge2014bag}
+A.~Plinge et~al.
+\newblock A bag-of-features approach to acoustic event detection.
+\newblock In {\em Proceedings of the IEEE International Conference on
+  Acoustics, Speech and Signal Processing (ICASSP)}, pages 3704--3708. IEEE,
+  2014.
+
+\bibitem{salamon2014dataset}
+J.~Salamon, C.~Jacoby, and J.~P. Bello.
+\newblock A dataset and taxonomy for urban sound research.
+\newblock In {\em Proceedings of the ACM International Conference on
+  Multimedia}, pages 1041--1044. ACM, 2014.
+
+\bibitem{stowell2013open}
+D.~Stowell and M.~D. Plumbley.
+\newblock An open dataset for research on audio field recording archives:
+  freefield1010.
+\newblock {\em arXiv preprint arXiv:1309.5275}, 2013.
+
+\bibitem{vacher2007sound}
+M.~Vacher, J.-F. Serignat, and S.~Chaillol.
+\newblock Sound classification in a smart room environment: an approach using
+  {GMM} and {HMM} methods.
+\newblock In {\em Proceedings of the IEEE Conference on Speech Technology and
+  Human-Computer Dialogue}, pages 135--146, 2007.
+
+\bibitem{van2009dares}
+M.~van Grootel, T.~Andringa, and J.~Krijnders.
+\newblock {DARES-G1: Database} of annotated real-world everyday sounds.
+\newblock In {\em Proceedings of the NAG/DAGA International Conference on
+  Acoustics}, 2009.
+
+\end{thebibliography}
