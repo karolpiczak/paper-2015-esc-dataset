@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css?family=PT+Serif');
+@import url('https://fonts.googleapis.com/css?family=Cousine');
+a {
+    color: #3F8F3F;
+    text-decoration: none !important;
+}
+a:hover {
+    color: #0F5F0F;
+    text-decoration: underline !important;
+}
+span.ansiblue {
+    color: #226688;
+}
+.cm-s-ipython span.cm-def {
+    color: #3377CC;
+}
+.CodeMirror {
+    font-size: 12px;
+    line-height: 150%;
+    font-family: Cousine, Consolas, monospace;
+}
+div.input_area {
+    width: 90%;
+}
+div.output_scroll {
+  width: 90%;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+}
+div.text_cell_render {
+    font-family: "PT Serif";
+    line-height: 155%;
+    width: 90%;
+}
+div.text_cell_render p {
+    text-align: justify;
+}
+div.output_area pre {
+    border: 1px solid #CFDFCF;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    border-radius: 2px;
+    padding: 10px;
+    background: #F9FFF9;
+    background: -webkit-gradient(linear, left top, left bottom, from(#FCFFFC), to(#F9FFF9));
+    background: -moz-linear-gradient(top, #FCFFFC,  #F9FFF9);
+    margin-left: -5px;
+    margin-right: 89px;
+}
+div.text_cell_render pre {
+    border: 1px solid #DFCFCF;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    border-radius: 2px;
+    padding: 10px;
+    background: #FFF9F9;
+    background: -webkit-gradient(linear, left top, left bottom, from(#FFFCFC), to(#FFF9F9));
+    background: -moz-linear-gradient(top, #FFFCFC,  #FFF9F9);
+    margin: 0px;
+}
+div.output_area .rendered_html table {
+    margin-left: -5px;
+    margin-right: 89px;
+}
+div.output_area pre, div.output_area pre code, div.text_cell_render pre, div.text_cell_render pre code {
+    font-family: Cousine, Consolas, monospace;
+    font-size: 12px;
+    line-height: 150%;
+}
+div.output_area pre code, div.text_cell_render pre code {
+    background: none;
+}
+div#footer_navi {
+    position: fixed;
+    bottom: 0;
+    height: 30px;
+    padding-top: 5px;
+    width: 100%;
+    background: #ffffff;
+    border-top: solid #cccccc 1px;
+    text-align: center;
+    font-family: "PT Serif";
+    line-height: 155%;
+    z-index: 50;
+}
