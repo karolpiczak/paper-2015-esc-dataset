@@ -16,7 +16,7 @@
 
 * Author version of the paper: [ESC: Dataset for Environmental Sound Classification](http://karol.piczak.com/papers/Piczak2015-ESC-Dataset.pdf).
 
-Please cite:
+Citing:
 
 > K. J. Piczak. **ESC: Dataset for Environmental Sound Classification**. In *Proceedings of the ACM International Conference on Multimedia*, in press, ACM, 2015.
 
